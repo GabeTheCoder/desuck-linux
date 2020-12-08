@@ -12,4 +12,6 @@ sh /media/usb2/workflow/disable-search.sh
 sh /media/usb2/workflow/disable-search-locations.sh
 sudo apt --fix-broken install
 
+sh /media/usb2/workflow/configure-shortcuts.sh
+
 apt-get install gnome-tweak-tool # can use prefetch bundle
