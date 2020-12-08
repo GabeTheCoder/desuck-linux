@@ -15,5 +15,6 @@ sudo apt --fix-broken install
 sh /media/usb2/workflow/configure-shortcuts.sh
 
 apt-get install gnome-tweak-tool # can use prefetch bundle
+apt-get install bundle/code.deb
 
 sh /media/usb2/workflow/configure-terminal-114-36
