@@ -20,3 +20,5 @@ apt-get install bundle/code.deb
 sh /media/usb2/workflow/configure-terminal-114-36
 sh /media/usb2/prefetch-gcc.sh
 sh /media/usb2/prefetch-libgtk3-0.sh
+
+sh /media/usb2/workflow/shortcuts/killall-3-gnome-shell
