@@ -22,3 +22,5 @@ sh /media/usb2/prefetch-gcc.sh
 sh /media/usb2/prefetch-libgtk3-0.sh
 
 sh /media/usb2/workflow/shortcuts/killall-3-gnome-shell
+
+gnome-extensions disable ubuntu-appindicators@ubuntu.com
